@@ -6,3 +6,7 @@ Bamazon is an inventory/shopping application that implements command lines from 
 ## MySQL Database
 I created a MySQL schema in VScode and transferred the data to create a table for my bamazon products using MySQL Workbench.
 ![MySQL](https://user-images.githubusercontent.com/54418316/75302030-7501ab80-57f1-11ea-86fe-bb481769b3b2.png)
+
+## Bamazon Customer Interface
+The customer will run node bamazon.js and will be provided with a store inventory that displays: the item id, Product name, category, price, and quantity. Node will display a prompt that requests the customer to choose the product by their unique item id. 
+![Node](https://user-images.githubusercontent.com/54418316/75303740-6cf83a80-57f6-11ea-9550-34219fe61598.png)
