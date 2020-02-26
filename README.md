@@ -12,4 +12,5 @@ The customer will run node bamazon.js and will be provided with a store inventor
 ![Node](https://user-images.githubusercontent.com/54418316/75303740-6cf83a80-57f6-11ea-9550-34219fe61598.png)
 Once the customer chooses their desired product by entering the unique item id, bamazon will prompt a request for the quanitity amount of the product they choose. If the customer chooses an amount that is more than the quantity available, bamazon will display a prompt that the quantity is unavailable.
 ![Node](https://user-images.githubusercontent.com/54418316/75304150-7c2bb800-57f7-11ea-8a02-3290167d8add.png)
-
+The costumer will once again be prompted to choose a product by the item id, and if they choose an amount within the quantities available, node will display that the product is in stock and provide you with the total cost.
+![Node](https://user-images.githubusercontent.com/54418316/75305127-0d9c2980-57fa-11ea-9e09-cdf52594e68a.png)
